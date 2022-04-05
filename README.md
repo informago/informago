@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @informago (Luciano Reis)
-- 👀 I’m interested in sciences, espace exploration.
+- 👀 I’m interested in sciences, space exploration.
 - 📫 How to reach me <a href="https://www.LucianoReis.com">LucianoReis.com</a>
 
 <!---
